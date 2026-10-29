@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Diff+Tool-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Meld Free Installer** — Meld is a free, open-source visual diff and merge tool for files and directories. Works without internet access, no account required. Full offline installation.
+**💻 Meld Free Installer** — Meld is a free, open-source visual diff and merge tool for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Meld
 
-Meld is a free, open-source visual diff and merge tool for files and directories. Supporting two-way and three-way comparison with color-coded difference highlighting, it also integrates with version control systems for commit and merge workflows.
+Meld is a free, open-source visual diff and merge tool for Windows, macOS, and Linux. Compare files and directories side-by-side with highlighted differences, resolve merge conflicts, and review code changes. Meld integrates with version control systems including Git, SVN, and Mercurial, making it an essential tool for developers who need to understand and reconcile code differences.
 
 ---
 
 ## ❌ Problem: Meld is hard to access
 
-- **Linux-Primary** — Windows and macOS versions exist but feel less native
-- **Limited Large File Performance** — Slow when diffing very large files or deep directory trees
-- **Basic Merge** — Three-way merge less powerful than dedicated merge tools like Beyond Compare
-- **No Paid Support** — Community-supported only; no commercial support available
+- **Performance** — Large file comparisons can be slow on older hardware
+- **Three-Way Merge** — Three-way file merges require familiarity with conflict resolution
+- **Windows Port** — Windows version historically less polished than the Linux original
+- **Limited File Preview** — Binary file diffing has limited utility
 
 ---
 
@@ -121,7 +121,7 @@ Meld is a free, open-source visual diff and merge tool for files and directories
 
 ---
 
-**Meld Free Installer** — Meld is a free, open-source visual diff and merge tool for files and directories. Install without internet connection today!
+**Meld Free Installer** — Meld is a free, open-source visual diff and merge tool for Windows, macOS, and Linux. Install without internet connection today!
 
 <div align="center">
 
